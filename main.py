@@ -51,7 +51,7 @@ pipe_height = random.randint(100, 400)
 # TODO 2.2: The too fast problem
 # The pipes are moving way too fast! Play around with the pipe_speed variable until you find a good
 # speed for the player to play in!
-pipe_speed = 20
+pipe_speed = 3
 
 score = 0
 game_over = False
