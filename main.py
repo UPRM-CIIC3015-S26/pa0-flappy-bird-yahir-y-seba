@@ -20,7 +20,7 @@ PLAYER = (0, 255, 255)
 WHITE = (255, 255, 255)
 GREEN = (0, 255, 0)
 BLACK = (0, 0, 0)
-PLAYER = (255, 255, 255)
+
 
 # Font Size -->
 big_font = pygame.font.SysFont(None, 80)
@@ -117,6 +117,7 @@ while running:
 
     screen.fill(pygame.Color('grey12'))
     # TODO 5: A Bird's Color
+    PLAYER = (255, 0, 0)
     # The color of the player is currently white, let's change that a bit! You are free to change the bird's
     # to whatever you wish. You will need to head back to where the PLAYER variable was created and change the values.
     pygame.draw.rect(screen, PLAYER, (bird_x, bird_y, 30, 30)) # Drawing the bird (You don't need to touch this line!)
