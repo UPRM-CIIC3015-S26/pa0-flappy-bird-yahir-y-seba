@@ -14,14 +14,14 @@ The project is designed as an introductory programming assignment (PA0). Most of
 ## 👥 Team Information
 
 ### Partner #1
-- **Name:**
-- **Student Number:**
-- **Email:**
+- **Name:** Yahir Vargas Gonzalez
+- **Student Number:** 802-25-4329
+- **Email:** yahir.vargas@upr.edu
 
 ### Partner #2
-- **Name:**
-- **Student Number:**
-- **Email:**
+- **Name:** Sebastian Cumpiano Gonzalez
+- **Student Number:** 802-25-2975
+- **Email:** sebastian.cumpiano@upr.edu
 
 ## ⭐ Bonus Features (Optional)
 List and briefly describe any additional features or enhancements implemented beyond the basic requirements.
